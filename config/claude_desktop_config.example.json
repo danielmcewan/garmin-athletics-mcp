@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "garmin_athletics": {
+      "command": "C:\\path\\to\\Athletics\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "garmin_mcp.server"],
+      "env": {
+        "GARMIN_MCP_HOME": "C:\\Users\\<you>\\AppData\\Local\\GarminAthleticsMCP"
+      }
+    }
+  }
+}
+
