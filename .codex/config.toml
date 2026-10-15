@@ -1,5 +1,5 @@
 [mcp_servers.garmin_athletics]
-command = "C:\\Users\\dan\\Documents\\Athletics\\.venv\\Scripts\\python.exe"
+command = "C:\\Users\\dan\\Desktop\\Personal\\Athletics\\.venv\\Scripts\\python.exe"
 args = ["-m", "garmin_mcp.server"]
 startup_timeout_sec = 20
 tool_timeout_sec = 120
